@@ -158,14 +158,18 @@ go run hola_mundo.go
 ¡Las contribuciones son bienvenidas! Para colaborar:
 
 1. **Forkea** el repositorio 🍴
-2. **Crea una rama** con tu mejora 
+2. **Crea una rama** con tu mejora
+
 ```
 git checkout -b feature-mejora
 ```
-3. **Realiza un commit** 
+
+3. **Realiza un commit**
+
 ```
 git commit -m "Agregada funcionalidad X"
 ```
+
 4. **Envía un Pull Request** 🚀
 
 ## 📜 Licencia
@@ -173,20 +177,20 @@ git commit -m "Agregada funcionalidad X"
 Este proyecto está bajo la **Licencia MIT**.
 
 ---
+
 ## 🌎 Información Corporativo
 
-- 🏢 **Empresa:** WINNER SYSTEMS CORPORATION S.A.C. 
+- 🏢 **Empresa:** WINNER SYSTEMS CORPORATION S.A.C.
 - 👨‍💻 **Autor:** EDWIN YONER
 - 🌐 **Web:**
-	- 🌍 **Sitio Web Empresa:** 🏢 [www.winner-systems.com](https://www.winner-systems.com)
-	- 🌍 **Sitio Web Personal:** 👨‍💻 [www.edwinyoner.com](https://www.edwinyoner.com)
+  - 🌍 **Sitio Web Empresa:** 🏢 [www.winner-systems.com](https://www.winner-systems.com)
+  - 🌍 **Sitio Web Personal:** 👨‍💻 [www.edwinyoner.com](https://www.edwinyoner.com)
 - 📧 **Contacto:**
-	- ✉️ [edwinyoner@winner-systems.com]()
-	- ✉️ [edwinyoner@edwinyoner.com]()
-    - **🔗LinkedIn Empresa:** [linkedin.com/in/winner-systems-corporation](https://linkedin.com/in/winner-systems-corporation)
-    - **🔗LinkedIn Personal:** [linkedin.com/in/edwinyoner](https://linkedin.com/in/edwinyoner)
-
-🚀 **¡Espero que este curso te ayude a dominar Go y construir aplicaciones escalables y eficientes!** 🎯
+  - ✉️ [edwinyoner@winner-systems.com]()
+  - ✉️ [edwinyoner@edwinyoner.com]()
+  - **🔗LinkedIn Empresa:** [linkedin.com/in/winner-systems-corporation](https://linkedin.com/in/winner-systems-corporation)
+  - **🔗LinkedIn Personal:** [linkedin.com/in/edwinyoner
+    ](https://linkedin.com/in/edwinyoner)
 
 ---
 
