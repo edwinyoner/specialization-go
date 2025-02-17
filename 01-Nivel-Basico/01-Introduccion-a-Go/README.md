@@ -8,8 +8,9 @@ Bienvenido/a al módulo de introducción al lenguaje de programación Go. En est
 
 - Conocer la historia y características principales de Go
 - Configurar un entorno de desarrollo funcional
-- Escribir y ejecutar tu primer programa
 - Entender la estructura básica de un proyecto en Go
+- Escribir un primer programa
+- Compilar y ejecutar tu primer programa
 
 ## 📚 Contenido del módulo
 
@@ -47,8 +48,8 @@ Bienvenido/a al módulo de introducción al lenguaje de programación Go. En est
 
 1. Comienza con la historia y características para entender el contexto
 2. Sigue la guía de instalación para configurar tu entorno
-3. Prueba el programa "Hola Mundo"
-4. Profundiza en la estructura básica del lenguaje
+3. Profundiza en la estructura básica del lenguaje
+4. Prueba el programa "Hola Mundo"
 5. Aprende a compilar y ejecutar tus programas
 
 ```bash
@@ -56,5 +57,8 @@ Bienvenido/a al módulo de introducción al lenguaje de programación Go. En est
 $ go run hola_mundo.go
 ¡Hola, Mundo!
 ```
+---
 
 ▶ **Siguiente paso**: [Historia y Características de Go](./historia_y_caracteristicas.md)
+
+---

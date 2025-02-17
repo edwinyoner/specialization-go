@@ -1,4 +1,3 @@
-```
 # Historia y Características de Go
 
 ## 📜 Historia de Go
@@ -46,7 +45,6 @@ func main() {
 ```
 
 ### Ventajas clave
-
 - ⚡ **Rendimiento**: Cercano a C en velocidad de ejecución
 - 📦 **Baterías incluidas**: Biblioteca estándar robusta
 - 🔒 **Seguridad**: Manejo de memoria seguro
@@ -95,4 +93,6 @@ func main() {
 
 ---
 
-▶ **Siguiente paso**: [Instalación y Configuración](./instalacion_y_configuracion.md)
+▶ **Siguiente**: [Instalación y Configuración](./instalacion_y_configuracion.md)
+
+---
