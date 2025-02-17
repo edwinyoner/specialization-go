@@ -13,8 +13,8 @@ specialization-go/
 │   │   ├── README.md
 │   │   ├── historia_y_caracteristicas.md
 │   │   ├── instalacion_y_configuracion.md
-│   │   ├── hola_mundo.go
 │   │   ├── estructura_basica.md
+│   │   ├── hola_mundo.go
 │   │   └── go_run_build.md
 │   ├── 02-Sintaxis-Basica/
 │   │   ├── README.md
